@@ -13,3 +13,8 @@ A estratégia utilizada para Mapear a Literatura durante minha pesquisa de Mestr
 Alguns destes passos podem ser automatizados e estou disponibilizando um código em python no Jupyter Notebook que poderá auxiliar alunos e pesquisadores.
 
 Minha dissertação encontra-se publicada na biblioteca do ITA, site http://www.bdita.bibl.ita.br/, título MEGA-RCD : um método de gerenciamento de ameaças em RCD.
+
+## Ressalto a importância de enviar as referências para correção pela Biblioteca, serviço gratuito e de muita qualidade!!! 
+
+Se gostou, compartilhe
+Se tem sugestões ou identificou problemas, crie uma Issue
