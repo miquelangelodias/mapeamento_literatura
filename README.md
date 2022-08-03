@@ -16,5 +16,6 @@ Minha dissertação encontra-se publicada na biblioteca do ITA, site http://www.
 
 ## Ressalto a importância de enviar as referências para correção pela Biblioteca, serviço gratuito e de muita qualidade!!! 
 
-Se gostou, compartilhe
-Se tem sugestões ou identificou problemas, crie uma Issue
+Se gostou, compartilhe.
+
+Se tem sugestões ou identificou problemas, crie uma Issue.
